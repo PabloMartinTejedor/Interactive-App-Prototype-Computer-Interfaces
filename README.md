@@ -1,2 +1,3 @@
-# Interactive-App-Prototype-Computer-Interfaces
-Interactive application prototype design to facilitate management and interaction among users passionate about retro football shirts in a digital environment, with a focus on user experience and smooth navigation across various sections.
+# 📌 Computer Interfaces Project - Retro Football Shirts Application Prototype
+
+This project, called `GLIP - ELITE` is designed to provide a exclusive virtual space for collectors and enthusiasts of retro football shirts. Not only does it enable users to share and discover unique jerseys, it also creates a lively community
