@@ -1,4 +1,4 @@
-## 🚀 Live Test & Project Download
+## 🚀 Live Test and Project Download
 
 This following section allows anyone to explore and navigate through the different screens of the application interactively, simulating the real experience of using de application. 
 Additionally, for those who wish explore the project deeply, a download option is provided to access to the full project features.
