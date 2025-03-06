@@ -1,4 +1,4 @@
-# 🌐 Application Sitemap
+# 🌐 Sitemap
 
 The following section provides a visual representation of the application´s navigation flow, showing how different screens are interconnected. Furthermore, the sitemap displays how users can move through the application by interacting with specific buttons, ensuring an intuitive experience.
 
