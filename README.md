@@ -4,6 +4,11 @@ This project, called `GLIP - ELITE`, is designed to provide an exclusive virtual
 
 With a smooth and intuitive user experience, `GLIP - ELITE` ensures an effortless browsing experience throughout its different sections. Users can easily sign in, sign up, create personalized profiles and explore a wide range of shirts using advanced search filters. Moreover, this novel application facilitates authentic interaction by allowing users to follow others, send direct messages and participate in posts through comments and reactions.
 
+## 📂 Project Structure
+
+- `Sitemap.md`: Shows the application's navigation structure and screen connections.
+- `Live Test and Project Download.md`: Enables live testing and full project download.
+
 ## 📲 Screens Functionality Description
 
 The following section provides a detailed overview of each screen of the `GLIP - ELITE` application, highlighting its specific functionalities and how users can interact with the digital space.
